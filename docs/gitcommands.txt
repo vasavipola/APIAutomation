@@ -1,0 +1,42 @@
+Clone a project from git
+
+git clone <projectgiturl>
+
+-----------------------------------
+
+see branches of a project
+
+git branch
+
+-------------------------------------
+
+ Find changes made in a branch
+
+ git status
+
+ git status -u
+
+ ---------------------------------------
+
+ Add changes to the branch
+
+
+ git add <filename>
+
+ to add all file changes
+
+ git add -A
+
+ ---------------------------------------
+
+ to commit changes to a branch
+
+ git commit -m "<message about your change>"
+
+ ---------------------------------------
+
+ to push changes to remote
+
+ git push origin <branchname>
+
+ ---------------------------------------
